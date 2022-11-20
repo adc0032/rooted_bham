@@ -1,4 +1,4 @@
-- title: Our Roots
+- title: "Our Roots"
   url: "/"
   side: left
 
@@ -25,7 +25,6 @@
     url: "/beauty/Boutique/"
   - title: "Hair Artists"
     url: "beauty/hair/"
-
 
 - title: "Events"
   url: "/events/"
