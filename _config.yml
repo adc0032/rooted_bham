@@ -43,7 +43,7 @@ urlimg: 'https://adc0032.github.io/rooted_bham/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "logo_smaller.png"
 
 # Plugins
 plugins:

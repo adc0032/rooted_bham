@@ -4,7 +4,7 @@
 
 - title: "Home"
   url: "/home/"
-  side: left
+  side: right
   dropdown: 
     - title: "Real Estate"
       url: "/house/realestate/"
@@ -15,7 +15,7 @@
 
 - title: "Aesthetics"
   url: "/aesthetics/"
-  side: left
+  side: right
   dropdown:
   - title: "Make-Up Artists"
     url: "/beauty/mua/"
@@ -28,7 +28,7 @@
 
 - title: "Events"
   url: "/events/"
-  side: left
+  side: right
   dropdown:
   - title: "Event Spaces"
     url: "/host/eventspace/"
@@ -39,7 +39,7 @@
 
 - title: "Media"
   url: "/media/"
-  side: left
+  side: right
   dropdown: 
   - title: "Photography"
     url: "/create/photo/"
@@ -50,7 +50,7 @@
 
 - title: "Food"
   url: "/food/"
-  side: left
+  side: right
   dropdown:
   - title: "Restaurants"
     url: "/eat/restaurants/"
