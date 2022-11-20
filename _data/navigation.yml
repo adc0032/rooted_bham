@@ -1,75 +1,67 @@
-- title: Start
+- title: Our Roots
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: "Home"
+  url: "/home/"
   side: left
+  dropdown: 
+    - title: "Real Estate"
+      url: "/house/realestate/"
+    - title: "Decor"
+      url: "house/decor/"
+    - title: "Maintanence & Renovations"
+      url: "house/maintdev/"
 
-- title: "Templates"
-  url: "/design/"
-  side: left
-  dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
-
-- title: "Header Styles"
-  url: "/headers/"
+- title: "Aesthetics"
+  url: "/aesthetics/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: "Make-Up Artists"
+    url: "/beauty/mua/"
+  - title: "Nail Artists"
+    url: "/beauty/nails/"
+  - title: "Boutiques"
+    url: "/beauty/Boutique/"
+  - title: "Hair Artists"
+    url: "beauty/hair/"
 
-- title: Documentation
-  url: "/documentation/"
+
+- title: "Events"
+  url: "/events/"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: "Event Spaces"
+    url: "/host/eventspace/"
+  - title: "Event Planning"
+    url: "/host/eventplans/"
+  - title: "Event Decor"
+    url: "/host/eventdecor/"
 
-- title: Blog
-  url: "/blog/"
+- title: "Media"
+  url: "/media/"
+  side: left
+  dropdown: 
+  - title: "Photography"
+    url: "/create/photo/"
+  - title: "Graphic Design"
+    url: "/create/graphic/"
+  - title: "Writer"
+    url: "/create/writer/"
+
+- title: "Food"
+  url: "/food/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "Restaurants"
+    url: "/eat/restaurants/"
+  - title: "Coffee & Tea"
+    url: "/eat/caffeine/"
+  - title: "Food Trucks"
+    url: "/eat/mobilefood/"
+  - title: "Catering"
+    url: "/eat/cater/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "Contact"
+- title: "Get Featured"
   url: "/contact/"
   side: right
