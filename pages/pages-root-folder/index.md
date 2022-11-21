@@ -11,7 +11,7 @@ widget1:
   title: "Explore Our Roots"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: alby_hendrick_bhamautumn.jpeg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'A city is nothing without people. <em>Rooted In Birmingham</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
   title: "About Our Roots"
   url: 'http://phlow.github.io/feeling-responsive/info/'
