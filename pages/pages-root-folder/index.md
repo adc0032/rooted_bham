@@ -12,7 +12,6 @@ widget1:
   url: 'http://adc0032.github.io/rooted_bham/about/'
   text: 'How much do you know about the Iron City? Birmingham (Metro) is the largest city in Alabama, and a cultural epicenter. Bham is home to a world-renouned research university and medical center, UAB and has thriving artistic and social justice communities.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://adc0032.github.io/rooted_bham/images/morrisave_jamie.jpeg" width="302" height="182" alt=""/></a>'
-  
 widget2:
   title: "Explore Our Roots"
   url: 'http://adc0032.github.io/rooted_bham/info/'
