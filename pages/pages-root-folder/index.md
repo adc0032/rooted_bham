@@ -21,7 +21,7 @@ widget3:
   title: "Strengthen Our Roots"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: JasonParks_courtney.jpeg
-  text: '<em>Rooted In Birmingham</em> is a community resource. If you want to contribute to the content (photos, blogposts, features, pages), reach out. If you own a local business or service and want to be listed, reach out.'
+  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
 #
 # Use the call for action to show a button on the frontpage
 #
