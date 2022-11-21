@@ -22,7 +22,7 @@ widget3:
   title: "Strengthen Our Roots"
   url: 'http://adc0032.github.io/rooted_bham/contact/'
   image: JasonParks_courtney.jpeg
-  text: '<em>Rooted In Birmingham</em> is a community resource. If you want to contribute to the content (photos, blogposts, features, pages), reach out. If you own a local business or service and want to be listed, reach out.'
+  text: '<em>Rooted In Birmingham</em> is a community resource. If you want to contribute to the content photos, blogposts, features, pages, reach out. If you own a local business or service and want to be listed, reach out.'
 #
 # Use the call for action to show a button on the frontpage
 #
