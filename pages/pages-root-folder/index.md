@@ -19,7 +19,7 @@ widget2:
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://adc0032.github.io/rooted_bham/images/morrisave_jamie.jpeg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Strengthen Our Roots"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: '/contact/'
   image: JasonParks_courtney.jpeg
   text: '<em>Rooted In Birmingham</em> is a community resource. If you want to contribute to the content &#40;photos, blogposts, features, pages&#41;, reach out. If you own a local business or service and want to be listed, reach out.'
 #
