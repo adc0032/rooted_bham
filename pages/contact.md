@@ -17,4 +17,4 @@ If you want to serve as a part of this community project, fill out the form belo
 If you have a business and just want to be featured, fill out the form below and select <b>business feature</b>
 <br>
 <br>
-<p align="center"> <font size="+3"><a href="https://forms.gle/fGgbm7FqCM9MtHxb8" style="margin:auto">Rooted in Birmingham Contact Form </font></p>
+<p align="center"> <font size="+3"><a href="https://forms.gle/fGgbm7FqCM9MtHxb8" style="margin:auto">Rooted in Birmingham Contact Form 
